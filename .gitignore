@@ -1,0 +1,10 @@
+*.log
+*.lst
+*.dmp
+*.dump
+*.csv
+*.xlsx
+*.tmp
+.env
+.env.*
+~$*
